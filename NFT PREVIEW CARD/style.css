@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main-page{
+    position: absolute;
+    background-color: 	#0d1a2d;
+    height: 100%;
+    right: 0%;
+    left: 0%;
+
+}
+.card{
+    position: absolute;
+    background-color: 	#15273f;
+    border-radius: 8px;
+    height: 60%;
+    width: 25%;
+    right: 0%;
+    left: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.nft-image{
+    position: absolute;
+    
+    height: 54%;
+    width: 80%;
+    right: 0%;
+    left: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 8px;
+    
+}
+
+.description-t{
+    margin-top: 10px;
+    float: inline-end;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.des{
+    padding-top: 6px;
+    color: rgb(187, 184, 184) ;
+}
+.eth{
+    padding-top: 5px;
+}
+.eth-i{
+    padding-top: 5px;
+    display: inline;
+}
+.eth-p{
+    display: inline;
+    color: #01fffd;
+    padding-left: 2px;
+    padding-top: 5px;
+}
+.clock-i{
+    padding-top: 9px;
+    
+    float: right; 
+    display: inline;   
+}
+.clock-t{
+    display: inline;
+    float: right;
+    color: #91aed8;
+    padding-top: 9px;
+}
+
+hr{
+        height: 0.5px;
+        background-color: #6f86a6;
+        border: none;
+        margin-top: 13px;
+
+}
+.author{
+    list-style: none;
+    align-items: center;
+    flex-direction: column;
+}
+.author-p{
+    margin-top: 10px;
+    width: 13%;
+    vertical-align: middle;
+    position: relative;
+
+    
+}
+.text{
+    
+    color: #7b8eae;
+    display: inline;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+.author-n{
+    color: white;
+    margin-left: 5px;
+}
